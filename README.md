@@ -5,4 +5,4 @@ Aplikasi pembelajaran Bangun Ruang menggunakan teknologi AR Model Target.
 - Aplikasi dikembangkan pada Unity 2018.4.27f1
 - Aplikasi diuji dengan perangkat Asus Zenfone 3
 
-### Click menu Release untuk mendownload .apk
+### Click menu Releases untuk mendownload .apk
